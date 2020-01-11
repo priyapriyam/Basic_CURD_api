@@ -1,0 +1,60 @@
+[
+  {
+    "courses_id": 1,
+    "courses": "Python",
+    "exercises": "opretors",
+    "exercises_id": 1
+  },
+  {
+    "courses_id": 1,
+    "courses": "Html",
+    "exercises_id": 2
+  },
+  null,
+  {
+    "courses_id": 1,
+    "courses": "Python",
+    "exercises": "function",
+    "exercises_id": 4
+  },
+  {
+    "courses_id": 2,
+    "courses": "hangman",
+    "exercises": "task_1",
+    "exercises_id": 5
+  },
+  {
+    "courses_id": 2,
+    "courses": "Nodejs",
+    "exercises_id": 6
+  },
+  {
+    "courses_id": 3,
+    "courses": "Nodejs",
+    "exercises_id": 7
+  },
+  {
+    "courses_id": 3,
+    "courses": "Request",
+    "exercises": "find out the saral courses name",
+    "exercises_id": 8
+  },
+  {
+    "courses_id": 4,
+    "courses": "Webscraping",
+    "exercises": "task_1",
+    "exercises_id": 9
+  },
+  {
+    "courses_id": 4,
+    "courses": "Webscraping",
+    "exercises": "task_2",
+    "exercises_id": 10
+  },
+  {
+    "courses_id": 4,
+    "courses": "Webscraping",
+    "exercises": "task_3",
+    "exercises_id": 11
+  }
+]
